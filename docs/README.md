@@ -22,7 +22,7 @@
 
 
 ## Support
-
+[дискорд](https://discord.com/invite/yrJqvCqU3w)
 
 
 ## Licensing
